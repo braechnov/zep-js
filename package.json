@@ -1,13 +1,13 @@
 {
    "show-config": "tsc --showConfig",
-   "name": "@getzep/zep-js",
+   "name": "@braechnov/zep-js",
    "version": "0.4.1",
    "description": "Zep JS Client",
    "private": false,
    "publishConfig": {
       "access": "public"
    },
-   "main": "dist/esm/index.js",
+   "main": "dist/index.js",
    "module": "dist/esm/index.js",
    "types": "dist/esm/index.d.ts",
    "scripts": {
